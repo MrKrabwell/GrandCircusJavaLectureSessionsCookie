@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaLecture_Sessions_Cookies:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="JavaLecture_Sessions_Cookies-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JavaLecture_Sessions_Cookies:war exploded" />
+    </root>
+  </artifact>
+</component>
